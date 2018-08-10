@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SimpleScrolling_Example' do
+  pod 'SimpleScrolling', :path => '../'
+
+  target 'SimpleScrolling_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -123,10 +123,7 @@
 		40A55C5D208EE0ED53ABBBD17487C3B4 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				A9592E4C211D5CCF00516B70 /* Classes */,
-				EB1CEDCB3261062F592BD211A4BBE1DF /* LICENSE */,
-				EB09B422341775A5CF2A647535DDAD2D /* README.md */,
-				0A32B69E51639D9699BDE41DC5E7CFF6 /* SimpleScrolling.podspec */,
+				A9592E4F211D5F9700516B70 /* Classes */,
 			);
 			name = Pod;
 			sourceTree = "<group>";
@@ -205,9 +202,12 @@
 			path = "Target Support Files/Pods-SimpleScrolling_Tests";
 			sourceTree = "<group>";
 		};
-		A9592E4C211D5CCF00516B70 /* Classes */ = {
+		A9592E4F211D5F9700516B70 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				EB1CEDCB3261062F592BD211A4BBE1DF /* LICENSE */,
+				EB09B422341775A5CF2A647535DDAD2D /* README.md */,
+				0A32B69E51639D9699BDE41DC5E7CFF6 /* SimpleScrolling.podspec */,
 				A9592E4D211D5D2D00516B70 /* sst.swift */,
 			);
 			name = Classes;

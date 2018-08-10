@@ -34,8 +34,9 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'SimpleScrolling/Classes/**/*'
-  
+  s.source_files = 'SimpleScrolling/'
+#  'SimpleScrolling/Classes/**/*'
+
   # s.resource_bundles = {
   #   'SimpleScrolling' => ['SimpleScrolling/Assets/*.png']
   # }

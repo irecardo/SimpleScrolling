@@ -29,7 +29,7 @@
 
 /* Begin PBXFileReference section */
 		20019336480DC5B8D92AF229 /* Pods-SimpleScrolling_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SimpleScrolling_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SimpleScrolling_Example/Pods-SimpleScrolling_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		2247241DC6D61EABA9F46FEE /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		2247241DC6D61EABA9F46FEE /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		35016BD9197CCAB02002D6CC /* Pods_SimpleScrolling_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SimpleScrolling_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD01AFB9204008FA782 /* SimpleScrolling_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SimpleScrolling_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -42,10 +42,10 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		7A9324C44EB3306957D44081 /* Pods_SimpleScrolling_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SimpleScrolling_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		977C3F3EBD7A44F3D2F8349A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		977C3F3EBD7A44F3D2F8349A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		B0BB9C301F4641638CDE150E /* Pods-SimpleScrolling_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SimpleScrolling_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-SimpleScrolling_Tests/Pods-SimpleScrolling_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		C933C6B60B6F9B53EF973C7E /* Pods-SimpleScrolling_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SimpleScrolling_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SimpleScrolling_Tests/Pods-SimpleScrolling_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		ED1BABC88A92EDE250FC1333 /* SimpleScrolling.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = SimpleScrolling.podspec; path = ../SimpleScrolling.podspec; sourceTree = "<group>"; };
+		ED1BABC88A92EDE250FC1333 /* SimpleScrolling.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SimpleScrolling.podspec; path = ../SimpleScrolling.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		F4AA705A488AE53E8E6996C2 /* Pods-SimpleScrolling_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SimpleScrolling_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-SimpleScrolling_Example/Pods-SimpleScrolling_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 

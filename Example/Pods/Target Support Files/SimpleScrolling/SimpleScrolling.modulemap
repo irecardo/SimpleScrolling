@@ -1,0 +1,6 @@
+framework module SimpleScrolling {
+  umbrella header "SimpleScrolling-umbrella.h"
+
+  export *
+  module * { export * }
+}

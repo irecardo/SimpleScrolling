@@ -1,0 +1,22 @@
+{
+  "name": "SimpleScrolling",
+  "version": "0.1.0",
+  "summary": "A short description of SimpleScrolling.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/irecardo/SimpleScrolling",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "irecardo": "recardopratama@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/irecardo/SimpleScrolling.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SimpleScrolling/Classes/**/*"
+}

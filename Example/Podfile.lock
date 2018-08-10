@@ -1,0 +1,16 @@
+PODS:
+  - SimpleScrolling (0.1.0)
+
+DEPENDENCIES:
+  - SimpleScrolling (from `../`)
+
+EXTERNAL SOURCES:
+  SimpleScrolling:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SimpleScrolling: b7a0f36a283a77f1c908aeaf4331d10a69ae3c6b
+
+PODFILE CHECKSUM: bc9efbd88e2e890fcc69dee6084bbb7f835c64c0
+
+COCOAPODS: 1.5.3
